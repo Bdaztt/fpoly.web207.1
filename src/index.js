@@ -21,6 +21,6 @@ const element = <h1>Tổng là : { total(a, b)}</h1>
 
 
 ReactDOM.render(
-  element,
+  person.name,
   document.getElementById('root')
 );
