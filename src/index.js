@@ -1,5 +1,14 @@
 import React from "react";
 import ReactDOM from "react-dom";
+const myName = <strong> Bui Tien Dat</strong>;
+const myAge = 18;
+const myStatus = false;
+
+const person = {
+  name : 'Bui Tien Dat',
+  age: 18,
+  status: false
+}
 
 function total(giatriA,giatriB){
   return giatriA + giatriB;
